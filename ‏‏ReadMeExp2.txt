@@ -1,6 +1,6 @@
 
 ReadMe for column names in the file:
- FullMetadataWormsExp1.csv 1
+ FullMetadataWormsExp2.csv 1
 This data was created for the study name "A reproducible model for magnetoreception: earthworms in transparent soil reduce their cumulative movement in extreamly low magnetic field" by Michael Bar-Ziv, Dan Szklowin, Oren Pearlson, Yoni Vortman
 All the data was dowmsampled to 1 sec intervals
 
